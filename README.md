@@ -1,1 +1,1 @@
-To jest pierwsza linia
+To jest zmieniona pierwsza linia
