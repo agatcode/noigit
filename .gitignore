@@ -1,2 +1,7 @@
 .DS_Store
 .env
+blabla.txt
+*.exe
+node_modules/
+config/setting.json
+
